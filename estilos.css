@@ -30,10 +30,10 @@ body {
     color: #000000; /* Color del texto blanco */
     font-weight: bold;
     padding: 0.5rem 1rem; /* Espaciado interno de los enlaces */
-    transition: color 0.3s ease; /* Transición suave para el color */
+    transition: color 0.3s ease;
 }
 
 .site-nav ul li a:hover {
-    color: #ddd; /* Color al pasar el ratón por encima */
+    color: #ddd; 
 }
 
